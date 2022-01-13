@@ -108,9 +108,9 @@ check /help for more.""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Update", url=f"https://t.me/idzeroid"),
+                    InlineKeyboardButton("owner", url=f"https://t.me/itzamanrajput"),
                     InlineKeyboardButton(
-                        "Support", url=f"https://t.me/idzeroidsupport"
+                        "Support", url=f"https://t.me/itzamanrajput"
                     ),
                 ]
             ]
@@ -134,7 +134,7 @@ for more help Go @idzeroidsupport and ask""",
                 [
                     InlineKeyboardButton("owner", url=f"https://t.me/itzamanrajput"),
                     InlineKeyboardButton(
-                        "Support", url=f"https://t.me/himu_ki_jaan"
+                        "Support", url=f"https://t.me/itzamanrajput"
                     ),
                 ]
             ]
