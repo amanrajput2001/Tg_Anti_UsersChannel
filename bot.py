@@ -110,7 +110,7 @@ check /help for more.""",
                 [
                     InlineKeyboardButton("owner", url=f"https://t.me/itzamanrajput"),
                     InlineKeyboardButton(
-                        "Support", url=f"https://t.me/itzamanrajput"
+                        "Support", url=f"https://t.me/himu_ki_jaan"
                     ),
                 ]
             ]
@@ -134,7 +134,7 @@ for more help Go @idzeroidsupport and ask""",
                 [
                     InlineKeyboardButton("owner", url=f"https://t.me/itzamanrajput"),
                     InlineKeyboardButton(
-                        "Support", url=f"https://t.me/itzamanrajput"
+                        "Support", url=f"https://t.me/himu_ki_jaan"
                     ),
                 ]
             ]
