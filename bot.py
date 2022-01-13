@@ -128,7 +128,7 @@ async def help_handler(bot, message):
 /del_whitelist [channel_id] : remove channel from whitelist.
 /show_whitelist : Show all white list channels.
 
-for more help Go @idzeroidsupport and ask""",
+for more help Go @itzamanrajput and ask""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
